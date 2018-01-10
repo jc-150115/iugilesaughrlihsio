@@ -72,6 +72,7 @@
     <Compile Include="sqlite\TrainingDatebase.cs" />
     <Compile Include="TodoItem.cs" />
     <Compile Include="TodoItemDatabase.cs" />
+    <Compile Include="Training.cs" />
     <Compile Include="TraningLogPage.xaml.cs">
       <DependentUpon>TraningLogPage.xaml</DependentUpon>
     </Compile>
