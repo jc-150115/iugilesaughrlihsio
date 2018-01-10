@@ -9,12 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuscleTrainingRecords00", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuscleTrainingRecords00.iOS", "MuscleTrainingRecords00\MuscleTrainingRecords00.iOS\MuscleTrainingRecords00.iOS.csproj", "{534EAA2E-BED9-4B94-9F1E-7FF9F50C12F8}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sqlite", "sqlite", "{862D5020-8EB0-47EB-9C2E-47EBF658522F}"
-	ProjectSection(SolutionItems) = preProject
-		IFileHelper.cs = IFileHelper.cs
-		TrainingDatabase.cs = TrainingDatabase.cs
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Ad-Hoc|Any CPU = Ad-Hoc|Any CPU
