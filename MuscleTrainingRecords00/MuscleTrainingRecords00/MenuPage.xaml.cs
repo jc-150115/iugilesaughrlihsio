@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
-using Menu.sqlite;
+using MuscleTrainingRecords00.sqlite;
 
 namespace MuscleTrainingRecords00
 {
