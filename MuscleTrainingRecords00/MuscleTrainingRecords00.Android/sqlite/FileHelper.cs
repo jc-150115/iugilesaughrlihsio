@@ -12,10 +12,10 @@ using Android.Widget;
 
 using System.IO;
 using Xamarin.Forms;
-using Menu.Droid;
-using Menu.Droid.sqlite;
-using Menu;
-using Menu.sqlite;
+using MuscleTrainingRecords00.Droid;
+using MuscleTrainingRecords00.Droid.sqlite;
+using MuscleTrainingRecords00;
+using MuscleTrainingRecords00.sqlite;
 
 [assembly: Dependency(typeof(FileHelper))]
 
